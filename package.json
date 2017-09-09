@@ -1,0 +1,14 @@
+{
+  "name": "messenger-bot",
+  "version": "1.0.0",
+  "description": "Messenger bot using Node.",
+  "main": "index.js",
+  "repository": "https://github.com/tkorakas/messenger-bot-episode-21.git",
+  "author": "Thanos Korakas <thanoskorakas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4"
+  }
+}
